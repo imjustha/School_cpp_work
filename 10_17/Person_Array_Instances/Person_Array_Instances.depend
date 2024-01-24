@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697557530 source:c:\users\priya\box\2023_fall_1337\10_17_class_array_of_instances\person_array_instances\src\person.cpp
+	"Person.h"
+
+1697557378 c:\users\priya\box\2023_fall_1337\10_17_class_array_of_instances\person_array_instances\include\person.h
+	<string>
+
+1697557580 source:c:\users\priya\box\2023_fall_1337\10_17_class_array_of_instances\person_array_instances\main.cpp
+	<iostream>
+	"Person.h"
+	<fstream>
+

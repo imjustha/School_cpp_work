@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697126020 source:c:\users\priya\box\2023_fall_1337\10_12\myfirstclass\src\cellphone.cpp
+	"CellPhone.h"
+
+1697135902 c:\users\priya\box\2023_fall_1337\10_12\myfirstclass\include\cellphone.h
+	<string>
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1697818856 source:c:\users\priya\box\2023_fall_1337\10_19\menu_with_menuitem_array\src\menu.cpp
+	"Menu.h"
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1697818856 c:\users\priya\box\2023_fall_1337\10_19\menu_with_menuitem_array\include\menu.h
+	<iostream>
+	<string>
+	"MenuItem.h"
+
+1697818856 c:\users\priya\box\2023_fall_1337\10_19\menu_with_menuitem_array\include\menuitem.h
+	<iostream>
+
+1697818856 source:c:\users\priya\box\2023_fall_1337\10_19\menu_with_menuitem_array\src\menuitem.cpp
+	"MenuItem.h"
+
+1697819065 source:c:\users\priya\box\2023_fall_1337\10_19\menu_with_menuitem_array\main.cpp
+	<iostream>
+	"Menu.h"
+

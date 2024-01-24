@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698162240 source:c:\users\priya\box\2023_fall_1337\10_19\complexoverload\main.cpp
+	<iostream>
+	"Complex.h"
+
+1698162240 c:\users\priya\box\2023_fall_1337\10_19\complexoverload\include\complex.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<sstream>
+

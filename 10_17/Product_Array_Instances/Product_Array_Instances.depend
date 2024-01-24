@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697563741 source:c:\users\priya\box\2023_fall_1337\10_17_class_array_of_instances\product_array_instances\main.cpp
+	"Product.h"
+
+1697563749 c:\users\priya\box\2023_fall_1337\10_17_class_array_of_instances\product_array_instances\product.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+

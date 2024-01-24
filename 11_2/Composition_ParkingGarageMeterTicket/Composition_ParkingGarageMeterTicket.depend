@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1698892933 source:c:\users\priya\box\2023_fall_1337_prep\j\classes\composition_parkinggaragemeterticket\main.cpp
+	<iostream>
+	"ParkedCar.h"
+	"ParkingMeter.h"
+	"ParkingTicket.h"
+	"PoliceOfficer.h"
+
+1698983231 source:c:\users\priya\box\2023_fall_1337_prep\j\classes\composition_parkinggaragemeterticket\src\parkedcar.cpp
+	"ParkedCar.h"
+	<string>
+	<iostream>
+
+1698983237 c:\users\priya\box\2023_fall_1337_prep\j\classes\composition_parkinggaragemeterticket\include\parkedcar.h
+	<string>
+	<iostream>
+
+1698983236 c:\users\priya\box\2023_fall_1337_prep\j\classes\composition_parkinggaragemeterticket\include\parkingmeter.h
+	<string>
+	<iostream>
+
+1698983235 c:\users\priya\box\2023_fall_1337_prep\j\classes\composition_parkinggaragemeterticket\include\parkingticket.h
+	"ParkedCar.h"
+	"ParkingMeter.h"
+	"PoliceOfficer.h"
+	<string>
+	<iostream>
+
+1698983234 c:\users\priya\box\2023_fall_1337_prep\j\classes\composition_parkinggaragemeterticket\include\policeofficer.h
+	<string>
+	<iostream>
+	"ParkedCar.h"
+	"ParkingMeter.h"
+
+1698983233 source:c:\users\priya\box\2023_fall_1337_prep\j\classes\composition_parkinggaragemeterticket\src\parkingmeter.cpp
+	"ParkingMeter.h"
+
+1698983238 source:c:\users\priya\box\2023_fall_1337_prep\j\classes\composition_parkinggaragemeterticket\src\parkingticket.cpp
+	"ParkingTicket.h"
+
+1698983232 source:c:\users\priya\box\2023_fall_1337_prep\j\classes\composition_parkinggaragemeterticket\src\policeofficer.cpp
+	"PoliceOfficer.h"
+	"ParkingTicket.h"
+

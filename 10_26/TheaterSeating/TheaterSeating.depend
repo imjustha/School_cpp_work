@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1698629137 source:c:\users\priya\box\2023_fall_1337\10_26\theaterseating\main.cpp
+	<iostream>
+	"Section.h"
+
+1698629137 c:\users\priya\box\2023_fall_1337\10_26\theaterseating\include\section.h
+	<iostream>
+	<string>
+	<cctype>
+
+1698629155 source:c:\users\priya\box\2023_fall_1337\10_26\theaterseating\src\section.cpp
+	"Section.h"
+	"Section.h"
+
